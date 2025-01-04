@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a University of Strathclyde student, currently studying Computer Science. I'm currently working on university and personal projects. 
+This is a new GitHub account.
 <!--
 **andrewrichmond26/andrewrichmond26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
