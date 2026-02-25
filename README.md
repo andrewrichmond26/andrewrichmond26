@@ -5,4 +5,4 @@ I'm Andrew, a First Class BSc Honours graduate in Computer Science from the Univ
 I recently started working as a Software Engineer at JPMorganChase, Glasgow, in their graduate program. 
 
 ## Contact Information
-* Feel free to get in touch with me on LinkedIn [here](https://www.linkedin.com/in/andrewrichmond26/)
+Feel free to get in touch with me on LinkedIn [here](https://www.linkedin.com/in/andrewrichmond26/)
